@@ -1,6 +1,6 @@
 # 京喜广告调整技能 一键安装
 $ErrorActionPreference = 'Stop'
-$BaseUrl = 'https://raw.githubusercontent.com/USER/REPO/main'
+$BaseUrl = 'https://raw.githubusercontent.com/jadenliu49-netizen/jingxi-ad-optimizer/main'
 $dst = Join-Path $env:USERPROFILE '.joycode\skills\jingxi-ad-optimizer'
 New-Item -ItemType Directory -Force -Path $dst, (Join-Path $dst 'scripts'), (Join-Path $dst 'references'), (Join-Path $dst 'agents') | Out-Null
 $files = @(
