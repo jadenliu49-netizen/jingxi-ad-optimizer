@@ -1,0 +1,4 @@
+interface:
+  display_name: "京喜广告调整"
+  short_description: "按保本投产比自动调整全站营销广告、拉黑亏损SKU、出报告"
+  default_prompt: "使用 $jingxi-ad-optimizer 调整我的全站营销广告"
