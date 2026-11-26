@@ -4,9 +4,7 @@
 
 ## 一键安装（Windows PowerShell）
 
-把下面的 jadenliu49-netizen/jingxi-ad-optimizer 换成你的 GitHub 用户名和仓库名，然后整段粘贴到 PowerShell：
-
-    irm https://raw.githubusercontent.com/jadenliu49-netizen/jingxi-ad-optimizer/main/install.ps1 | iex
+    irm https://raw.githubusercontent.com/jadenliu49-netizen/jingxi-ad-optimizer/v1/install.ps1 | iex
 
 装完重启 JoyCode，新开对话说“调整广告”。
 
